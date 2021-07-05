@@ -1,0 +1,37 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 60px;
+    color: #575757;
+}
+.orange-text{
+    color: orange;
+}
+
+.top-container{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 150px;
+    padding-top: 50px;
+
+}
+#top-first-div{
+    padding-top: 200px;
+    margin-left: 100px;
+}
+.half-width p{
+    text-align: left;
+    color: #828282;
+}
+.half-width a{
+    text-decoration: none;
+    background-image: linear-gradient(to right, orange ,tomato);
+    padding: 15px 40px;
+    color: white;
+    border-radius: 50px;
+    box-shadow: 10px 10px 40px grey;
+}
