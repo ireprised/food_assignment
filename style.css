@@ -14,6 +14,9 @@ h2{
 .orange-text{
     color: orange;
 }
+p{
+    text-decoration: ;
+}
 
 .top-container{
     display: flex;
@@ -50,8 +53,10 @@ h2{
     
 }
 #img2{
-    margin-left: 150px;
-    margin-top: 45px;
+    height: 100%;
+    width: 100%;
+    margin-left: 5%;
+    
 }
 #container2{
     background-image: url(images/7.png);
@@ -67,16 +72,9 @@ h2{
     height: 450px;
     border-radius: 30px;
     padding: 1%;
-    margin-left: 19%;
-    margin-right: -17%;
+    margin-left: 10%;
     background-color: rgb(255, 255, 255);
     box-shadow: 10px 10px 40px grey;
-    
-    
-
-
-
-
 }
 
 
