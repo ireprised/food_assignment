@@ -2,8 +2,12 @@ body{
     font-family: 'Montserrat', sans-serif;
     margin: 0px;
 }
-h1{
+h1 {
     font-size: 60px;
+    color: #575757;
+}
+h2{
+    font-size: 40px;
     color: #575757;
 }
 .orange-text{
@@ -12,11 +16,12 @@ h1{
 
 .top-container{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
-    padding-left: 150px;
-    padding-top: 50px;
+    padding-left: 5%;
+    
 
 }
 #top-first-div{
@@ -34,4 +39,22 @@ h1{
     color: white;
     border-radius: 50px;
     box-shadow: 10px 10px 40px grey;
+}
+#img1{
+    margin-top: 5%
+}
+#text2{
+    margin-top: 200px;
+    margin-right: 150px;
+    
+}
+#img2{
+    margin-left: 150px;
+    margin-top: 45px;
+}
+#container2{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
 }
