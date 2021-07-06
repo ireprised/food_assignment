@@ -1,5 +1,6 @@
 body{
     font-family: 'Montserrat', sans-serif;
+    background-color: #E5E5E5;
     margin: 0px;
 }
 h1 {
@@ -57,4 +58,42 @@ h2{
     background-repeat: no-repeat;
     background-size: 100%;
     
+}
+.recipie{
+    text-align: center;
+}
+.third-width{
+    
+    height: 450px;
+    border-radius: 30px;
+    padding: 1%;
+    margin-left: 19%;
+    margin-right: -17%;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 10px 10px 40px grey;
+    
+    
+
+
+
+
+}
+
+
+.final-width{
+    width: 16%;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-bottom: 2%;
+    margin-left: 8%;
+    margin-right: 0%;
+     
+    
+
+}
+#subscriber{
+    box-shadow: 10px 10px 40px grey;
+    margin-left:15%;
+    margin-right: 15%;
+    border-radius: 15px;
 }
