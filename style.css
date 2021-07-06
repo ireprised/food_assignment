@@ -15,7 +15,8 @@ h2{
     color: orange;
 }
 p{
-    text-decoration: ;
+    display: block;
+    line-height: 25px;
 }
 
 .top-container{
@@ -48,14 +49,15 @@ p{
     margin-top: 5%
 }
 #text2{
-    margin-top: 200px;
-    margin-right: 150px;
+    margin-top: 10%;
+    margin-right: 15%;
     
 }
 #img2{
     height: 100%;
     width: 100%;
     margin-left: 5%;
+    
     
 }
 #container2{
@@ -72,7 +74,7 @@ p{
     height: 450px;
     border-radius: 30px;
     padding: 1%;
-    margin-left: 10%;
+    margin-left: 9%;
     background-color: rgb(255, 255, 255);
     box-shadow: 10px 10px 40px grey;
 }
